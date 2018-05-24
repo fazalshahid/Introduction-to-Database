@@ -1,0 +1,9 @@
+id,country_id,start_date,name,wikipedia,description,comment,previous_cabinet_id,previous_parliament_election_id
+0,5,1974-10-10,Wilson I,http://en.wikipedia.org/wiki/Labour_Government_1974-1979,"PM Wilson announced his resignation on 16 March 1976 due to health reasons, taking effect on 5 April.",,,0
+1,5,2021-10-10,Wilsommmm,http://en.wikipedia.org/wiki/Labour_Government_1974-1979,,,0,1
+2,29,2021-10-11,Pearson  I,,,,,2
+3,29,2021-10-12,Pearson II,,,,,3
+4,29,2021-10-13,Pearson III,,,,,4
+5,29,2021-10-14,Peason IV,,,,,5
+6,29,2021-10-15,John I,,,,,6
+7,29,2021-10-16,John II,,,,,7

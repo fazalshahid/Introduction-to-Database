@@ -1,0 +1,4 @@
+SET SEARCH_PATH TO parlgov;
+SELECT DISTINCT * 
+FROM q4
+ORDER BY country;

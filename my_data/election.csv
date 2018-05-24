@@ -1,0 +1,13 @@
+id,country_id,e_date,wikipedia,seats_total,electorate,votes_cast,votes_valid,description,previous_parliament_election_id,previous_ep_election_id,e_type
+0,5,2017-06-18,"https://en.wikipedia.org/wiki/French_legislative_election,_2017",577,47570988,23167508,22654164,,,,Parliamentary election
+1,5,2021-01-01,"https://en.wikipedia.org/wiki/French_legislative_election,_2017",600,47570988,23167508,22654164,,0,,Parliamentary election
+2,29,1990-01-01,,500,47570988,23167508,22654164,,,,Parliamentary election
+3,29,1993-01-01,,500,47570988,23167508,22654164,,2,,Parliamentary election
+4,29,2008-01-01,,500,47570988,23167508,22654164,,3,,Parliamentary election
+5,29,2012-01-01,,500,47570988,23167508,22654164,,4,,Parliamentary election
+6,29,2017-01-01,,500,47570988,23167508,22654164,,5,,Parliamentary election
+7,29,2022-01-01,,500,47570988,23167508,22654164,,6,,Parliamentary election
+8,43,2010-01-01,,500,47570988,23167508,22654164,,,,European Parliament
+9,43,2015-01-01,,500,47570988,23167508,22654164,,,8,European Parliament
+10,43,2020-01-01,,500,47570988,23167508,22654164,,,9,European Parliament
+11,43,2025-01-01,,500,47570988,23167508,22654164,,,10,European Parliament
